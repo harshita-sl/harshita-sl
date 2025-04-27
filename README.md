@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshita-sl
-- 👀 I’m interested in product designing and 3d animation
+- 👀 I’m interested in product designing and software development 
 - 🌱 Skills - C, C++;
 - 📫 How to reach me @ls8989125@gmail.com
 - ⚡ Fun fact: Do you know why titanic drown?
